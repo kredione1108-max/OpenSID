@@ -1,6 +1,6 @@
 <h1 align="center">Selamat datang di OpenSID! 👋</h1>
 
-![readme-image](https://user-images.githubusercontent.com/46939846/103254436-d5381f80-49b7-11eb-8c2b-99dc4c7de30b.png "OpenSID membantu penanggulangan COVID-19")
+![readme-image](https://user-images.githubusercontent.com/https://wa.me/qr/D64MJAQK2RZAF1 .png "OpenSID membantu penanggulangan COVID-19")
 
 ### 🤔 Apa itu OpenSID?
 
@@ -30,7 +30,7 @@
 
 ## 📃 PEDOMAN PENGGUNAAN
 
-Panduan pemasangan dan penggunaan OpenSID tersedia di [Panduan OpenSID](https://panduan.opendesa.id/id/opensid).
+Panduan pemasangan dan penggunaan OpenSID tersedia di [Panduan OpenSID].https://wa.me/qr/D64MJAQK2RZAF1
 
 ## 📑 Distribusi "VERSI PUBLIK (UMUM)" dan "VERSI PREMIUM":
 
